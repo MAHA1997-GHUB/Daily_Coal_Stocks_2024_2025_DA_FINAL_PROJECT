@@ -1,9 +1,9 @@
 # <img width="50" height="50" alt="project title" src="https://github.com/user-attachments/assets/4caf0881-a47f-4b7d-ae80-34fb5cb10d02" /> Analysis of Daily Coal Stock Monitoring in Indian Power Plants
 The dataset used in this project consist of daily coal stock records from thermal power stations across india between 2024-2025. Its provides detailed information at the state, sector, and individual station level, capturing both operational and logistical aspects of coal supply.
 ## <img width="50" height="50" alt="Dashboard" src="https://github.com/user-attachments/assets/a7b3e70f-0f0a-49a0-9b28-c74344f7548c" />Dashboard
-<img width="1315" height="549" alt="Dashboard 1" src="https://github.com/user-attachments/assets/bae79b0c-660c-4b2e-b70e-28c308c64dc6" />
-<img width="1315" height="549" alt="Dashboard 2" src="https://github.com/user-attachments/assets/c52b9e9b-1dc2-4a20-9770-a2b95ce84130" />
-<img width="1315" height="549" alt="Dashboard 3" src="https://github.com/user-attachments/assets/db1cbc4a-9c00-4ebd-9cb8-503f1f0faa1f" />
+## <img width="1315" height="549" alt="Dashboard 1" src="https://github.com/user-attachments/assets/bae79b0c-660c-4b2e-b70e-28c308c64dc6" />
+## <img width="1315" height="549" alt="Dashboard 2" src="https://github.com/user-attachments/assets/c52b9e9b-1dc2-4a20-9770-a2b95ce84130" />
+## <img width="1315" height="549" alt="Dashboard 3" src="https://github.com/user-attachments/assets/db1cbc4a-9c00-4ebd-9cb8-503f1f0faa1f" />
 ## <img width="50" height="50" alt="Project Objective" src="https://github.com/user-attachments/assets/81660f6d-41c9-4cc4-8275-2997a09b7c25" /> Objective
 The objective of this analysis is to provide a comprehensive view of Daily Coal Stock data from thermal power stations across India. It **aims to evaluate coal supply, receipts, consumption, and stock adequacy at the state, sector, and station levels,** while identifying patterns, trends, and critical conditions that affect plant load factor and energy security. The study will **generate clear visual reports and actionable recommendations to improve coal logistics** strengthen stock management, and support informed policy decisions for reliable energy planning.
 ## <img width="50" height="50" alt="scope" src="https://github.com/user-attachments/assets/a8560331-9524-4f10-8558-e1c549fc12f4" /> Scope
